@@ -1,3 +1,6 @@
+# NOTE:
+This fork is here purely to provide a reliable place to store a fix for the [`undefined method 'include_default_source' for Custom resource ruby_rbenv_gem from cookbook ruby_rbenv` issue](https://github.com/sous-chefs/ruby_rbenv/issues/161).
+
 # <a name="title"></a> ruby_rbenv Chef Cookbook
 
 [![Build Status](https://travis-ci.org/sous-chefs/ruby_rbenv.svg?branch=master)](https://travis-ci.org/sous-chefs/ruby_rbenv)
